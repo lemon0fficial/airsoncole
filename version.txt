@@ -1,1 +1,17 @@
-{"launcher-version":"1.0","player-version":"1.0","controller-version":"1.0"}
+{
+  "launcher":
+  {
+    "version":"v1.0",
+    "link":"https://lemon0fficial.github.io/airsoncole/launcher.html"
+  },
+  "screen":
+  {
+    "version":"v1.0",
+    "link":"https://lemon0fficial.github.io/airsoncole/screen.html"
+  },
+  "controller":
+  {
+    "version":"v1.0",
+    "link":"https://lemon0fficial.github.io/airsoncole/controller.html"
+  }
+}
